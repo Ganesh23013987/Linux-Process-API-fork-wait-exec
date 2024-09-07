@@ -46,8 +46,8 @@ int main(void)
 
 ```
 ## OUTPUT
-![os exp2 i)](https://github.com/user-attachments/assets/6a94d8d7-0c2f-4802-a40d-d03ce700418e)
 
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/ef9b6fb3-49b5-4702-b07c-c5fecdccfdf2">
 
 ## C Program to create new process using Linux API system calls fork() and exit()
 
@@ -69,7 +69,8 @@ exit(0);}
 ```
 ## OUTPUT
 
-![os exp2 II)](https://github.com/user-attachments/assets/9ba05bde-b9f4-470d-a811-b76f4f2d8c97)
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/b6a22703-2293-4897-bf4a-eeb54a0f7f2e">
+
 
 
 ## C Program to execute Linux system commands using Linux API system calls exec() family
@@ -100,7 +101,7 @@ printf("Running ps with execlp. Now with path specified\n");
 
 ## OUTPUT
 
-<img width="449" alt="image" src="https://github.com/user-attachments/assets/68a60046-51ef-4933-84a7-c2fc42b960ff">
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/68a60046-51ef-4933-84a7-c2fc42b960ff">
 
 
 ## RESULT:
