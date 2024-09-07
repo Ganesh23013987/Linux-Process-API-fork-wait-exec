@@ -69,7 +69,7 @@ exit(0);}
 ```
 ## OUTPUT
 
-<img width="500" alt="image" src="https://github.com/user-attachments/assets/b6a22703-2293-4897-bf4a-eeb54a0f7f2e">
+<img width="450" alt="image" src="https://github.com/user-attachments/assets/b6a22703-2293-4897-bf4a-eeb54a0f7f2e">
 
 
 
