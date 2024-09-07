@@ -46,11 +46,8 @@ int main(void)
 
 ```
 ## OUTPUT
-```
-localhost:~# ./a.out
-The process id: 97
-The process id of parent function: 61
-```
+![os exp2 i)](https://github.com/user-attachments/assets/6a94d8d7-0c2f-4802-a40d-d03ce700418e)
+
 
 ## C Program to create new process using Linux API system calls fork() and exit()
 
@@ -72,12 +69,9 @@ exit(0);}
 ```
 ## OUTPUT
 
-```
-localhost:~# ./a.out
-I am parent, my pid is 108
-Iam child my pid is 109
-My parent pid is:108
-```
+![os exp2 II)](https://github.com/user-attachments/assets/9ba05bde-b9f4-470d-a811-b76f4f2d8c97)
+
+
 ## C Program to execute Linux system commands using Linux API system calls exec() family
 ```
 #include <stdlib.h>
@@ -105,12 +99,8 @@ printf("Running ps with execlp. Now with path specified\n");
 ```
 
 ## OUTPUT
-```
-localhost:~# ./a.out
-Running ps with execlp
-child exited with status of 0
-Done.
-Running ps with execlp. Now with path specified
-```
+
+![os exp2 iii)](https://github.com/user-attachments/assets/c97caf2a-d7e8-436b-8b53-215a522d01d9)
+
 ## RESULT:
 The programs are executed successfully.
