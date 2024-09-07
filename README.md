@@ -100,7 +100,7 @@ printf("Running ps with execlp. Now with path specified\n");
 
 ## OUTPUT
 
-![os exp2 iii)](https://github.com/user-attachments/assets/c97caf2a-d7e8-436b-8b53-215a522d01d9)
+![os exp2 iii)](https://github.com/user-attachments/assets/6a94d8d7-0c2f-4802-a40d-d03ce700418e)
 
 ## RESULT:
 The programs are executed successfully.
