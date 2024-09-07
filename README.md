@@ -100,7 +100,7 @@ printf("Running ps with execlp. Now with path specified\n");
 
 ## OUTPUT
 
-img width="449" alt="image" src="https://github.com/user-attachments/assets/68a60046-51ef-4933-84a7-c2fc42b960ff">
+<img width="449" alt="image" src="https://github.com/user-attachments/assets/68a60046-51ef-4933-84a7-c2fc42b960ff">
 
 
 ## RESULT:
