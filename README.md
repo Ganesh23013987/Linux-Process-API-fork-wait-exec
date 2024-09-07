@@ -48,8 +48,8 @@ int main(void)
 ## OUTPUT
 ```
 localhost:~# ./a.out
-The process id: 297
-The process id of parent function: 261
+The process id: 2397
+The process id of parent function: 2261
 ```
 
 ## C Program to create new process using Linux API system calls fork() and exit()
@@ -74,9 +74,9 @@ exit(0);}
 
 ```
 localhost:~# ./a.out
-I am parent, my pid is 208
-Iam child my pid is 209
-My parent pid is:208
+I am parent, my pid is 3196
+Iam child my pid is 3197
+My parent pid is:3196
 ```
 ## C Program to execute Linux system commands using Linux API system calls exec() family
 ```
