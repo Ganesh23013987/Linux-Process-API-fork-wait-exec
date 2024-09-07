@@ -46,8 +46,11 @@ int main(void)
 
 ```
 ## OUTPUT
-
-<img width="500" alt="image" src="https://github.com/user-attachments/assets/ef9b6fb3-49b5-4702-b07c-c5fecdccfdf2">
+```
+localhost:~# ./a.out
+The process id: 297
+The process id of parent function: 261
+```
 
 ## C Program to create new process using Linux API system calls fork() and exit()
 
@@ -69,10 +72,12 @@ exit(0);}
 ```
 ## OUTPUT
 
-<img width="450" alt="image" src="https://github.com/user-attachments/assets/b6a22703-2293-4897-bf4a-eeb54a0f7f2e">
-
-
-
+```
+localhost:~# ./a.out
+I am parent, my pid is 208
+Iam child my pid is 209
+My parent pid is:208
+```
 ## C Program to execute Linux system commands using Linux API system calls exec() family
 ```
 #include <stdlib.h>
@@ -100,9 +105,12 @@ printf("Running ps with execlp. Now with path specified\n");
 ```
 
 ## OUTPUT
-
-<img width="500" alt="image" src="https://github.com/user-attachments/assets/68a60046-51ef-4933-84a7-c2fc42b960ff">
-
-
+```
+localhost:~# ./a.out
+Running ps with execlp
+child exited with status of 0
+Done.
+Running ps with execlp. Now with path specified
+```
 ## RESULT:
 The programs are executed successfully.
